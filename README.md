@@ -8,7 +8,7 @@ Contents:
    <li>tow_date</li>
     <li>make</li>
     <li>style</li>
-    <li>color<li>
+    <li>color</li>
     <li>plate</li>
     <li>state</li>
     <li>towed_to_address</li>
