@@ -15,5 +15,5 @@ Contents:
     <li>tow_facility_phone</li>
     <li>inventory_number</li> 
 </ul>
-and the list is available in JSON, CSV, and XML formats.
+The list is available in JSON, CSV, and XML formats.
 
