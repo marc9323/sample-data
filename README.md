@@ -8,12 +8,12 @@ Contents:
    <li>tow_date</li>
     <li>make</li>
     <li>style</li>
-    color
-    plate
-    state
-    towed_to_address
-    tow_facility_phone
-    inventory_number
+    <li>color<li>
+    <li>plate</li>
+    <li>state</li>
+    <li>towed_to_address</li>
+    <li>tow_facility_phone</li>
+    <li>inventory_number</li> 
 </ul>
 and the list is available in JSON, CSV, and XML formats.
 
